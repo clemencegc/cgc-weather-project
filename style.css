@@ -7,3 +7,10 @@ h2 {
   text-align: center;
   color: burlywood;
 }
+
+.btn btn-primary {
+  text-align: center;
+  display: contents;
+  margin: 0 auto;
+  color: burlywood;
+}
